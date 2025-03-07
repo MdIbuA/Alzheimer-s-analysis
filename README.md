@@ -1,3 +1,3 @@
 <h1>
-  <i> Alzheimer's Analysis Using Voice Analysis</i>
+  <i> Alzheimer's Detection Using Voice Analysis</i>
 </h1>
